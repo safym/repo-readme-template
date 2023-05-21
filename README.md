@@ -34,6 +34,7 @@
     <img height="230px" src="https://user-images.githubusercontent.com/99616798/231590186-6d09b904-4132-471b-b4b6-37bfb1414d71.png" />
 </p>
 
+## 🛠 Commands
 Install packages:
 ```bash
 npm install
